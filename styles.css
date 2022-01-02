@@ -1,5 +1,4 @@
 body {
-  background: orange;
 }
 
 #navButton {
@@ -9,4 +8,23 @@ body {
 #dikshi:hover {
   background-color: black;
   display: block;
+}
+
+.child {
+  border: solid 1px;
+}
+.left {
+  width: 100px;
+}
+.container {
+  display: flex;
+}
+
+.carousel-caption {
+  top: 0;
+  bottom: auto;
+}
+
+#dd {
+  color: brown;
 }
