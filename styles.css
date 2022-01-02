@@ -28,3 +28,10 @@ body {
 #dd {
   color: brown;
 }
+
+#trying {
+  margin-top: 35%;
+  margin-left: 0%;
+  opacity: 0.7;
+  width: 30rem;
+}
