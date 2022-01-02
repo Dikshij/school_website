@@ -5,3 +5,8 @@ body {
 #navButton {
   float: right;
 }
+
+#dikshi:hover {
+  background-color: black;
+  display: block;
+}
